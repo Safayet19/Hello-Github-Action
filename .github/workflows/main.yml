@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Greetings
-      - run: echo "Hellow I am from Github Action"
+        run: echo "Hellow I am from Github Action"
       
